@@ -9,7 +9,7 @@ The most prevalent form of audio analysis is derived from the sense of hearing. 
 The Project divided into these topics in these aspects:
 * Speech & Audio
   - [x] Persian Speech Emotion Detection
-  - [ ] Persian Speech Transcription
+  - [x] Persian Speech Transcription
   * ...
 * Music
   * ... 
