@@ -13,5 +13,5 @@ The Project divided into these topics in these aspects:
   * ...
 * Music
   * [x] Musical Genres Detection
-  * [ ] Unconditional music audio generation (Usecase: music audio generation in the genre)
+  * [x] Unconditional music audio generation (Usecase: music audio generation in the genre)
   * ...
